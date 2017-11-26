@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: 26-Nov-2017
- *      Author: vinaydivakar
+ *      Author: Vinay Divakar
  */
 
 /* Standard Includes */
