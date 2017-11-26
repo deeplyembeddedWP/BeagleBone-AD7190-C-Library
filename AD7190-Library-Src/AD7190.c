@@ -234,7 +234,7 @@ unsigned long AD7190_read_data()
 			adc_data = (adc_data | Rx_bytes[0]) << 8;
 			adc_data = (adc_data | Rx_bytes[1]) << 8;
 			adc_data = adc_data | Rx_bytes[2];
-			printf("%lu\r\n",adc_data);
+			//printf("%lu\r\n",adc_data);
 		}
 		else
 		{
